@@ -38,7 +38,7 @@ global.pdana = '082285357346'
 global.povo = '-'
 global.pgopay = '082285357346'
 global.ppulsa = '082285357346'
-global.ppulsa2 = '-'
+global.ppulsa2 = '082228545461'
 global.psaweria = '-'
 
 /*============== NOMOR ==============*/
