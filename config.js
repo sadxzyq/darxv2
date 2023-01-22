@@ -110,7 +110,7 @@ global.titlebot = `𝘿𝙖𝙧𝙠𝙭-𝘽𝙊𝙏 | ʙʏ ${global.nameown}`
 global.author = '𝙳𝚊𝚛𝚔𝚡' 
 global.packname = '𝙳𝚊𝚛𝚔𝚡'
 global.danied = '✘ 𝗘𝗿𝗿𝗼𝗿 𝗧𝗼𝗱 𝘄𝗸𝘄𝗸'
-global.ultahowner = 'Mei 24 2022'
+global.ultahowner = 'Mei 24 2023'
 
 
 /*============== LOGO ==============*/
@@ -118,8 +118,8 @@ global.thumb = 'https://telegra.ph/file/0c1f1ea20188d934ba4ca.jpg' //Main Thumbn
 global.imagebot = 'https://telegra.ph/file/12ef4b5b06b3b906ffb93.jpg'
 global.giflogo = 'https://ibb.co/3sJ0ybv'
 global.thumbbc = 'https://telegra.ph/file/a46ab7fa39338b1f54d5a.mp4' //For broadcast
-global.giflogo = 'https://telegra.ph/file/1c067b349efe8f97e2817.jpg'
-global.giflogo2 = 'https://telegra.ph/file/a5eb5169ab1330a537e0b.jpg'
+global.giflogo = 'https://telegra.ph/file/b59d1335e3c00643a76a2.jpg'
+global.giflogo2 = 'https://telegra.ph/file/b59d1335e3c00643a76a2.jpg'
 global.thumbs = ['https://telegra.ph/file/0c1f1ea20188d934ba4ca.jpg']
 global.fla = 'https://www6.flamingtext.com/net-fu/proxy_form.cgi?&imageoutput=true&script=sketch-name&doScale=true&scaleWidth=800&scaleHeight=500&fontsize=100&fillTextType=1&fillTextPattern=Warning!&text='
 global.thumbBanned = 'https://telegra.ph/file/2a3cc55f9ff1bdf18f109.jpg'
